@@ -1,5 +1,5 @@
 body {
-    background: pink;
+    background: rgba(236, 6, 6, 0.747);
     background-image: url('');
     color: rgb(45, 45, 45);
     padding: 10px;
@@ -13,7 +13,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
+    background: rgb(51, 41, 39);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -48,7 +48,7 @@ main {
     padding: 10px;
 }
 .sidebar-img {
-    width: 600px;
+    width: 900px;
 }
 .content {
     flex: 1;
