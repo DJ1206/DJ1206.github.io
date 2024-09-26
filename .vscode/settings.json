@@ -3,7 +3,7 @@
     "*.md": "vscode.markdown.preview.editor",
     "*.html": "default"
   },
-  "liveServer.settings.port": 5507,
+  "liveServer.settings.port": 5508,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[html]": {
